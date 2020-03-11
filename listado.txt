@@ -1,0 +1,10 @@
+zebra
+zorro
+caballo
+perro
+gato
+castor
+pato
+ornitorrinco
+koala
+canguro
